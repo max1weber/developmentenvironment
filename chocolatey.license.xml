@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="5ecc1423-7b57-4734-9ac1-31739ad70784" expiration="2023-09-16T00:00:00.0000000" type="Professional">
+  <name>Marc Weber (marc@integratiespecialist.net)</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>U9onmM4RcTdrhwh8CJSWWd7A8Uw=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>WuQcdXvHEuW31LqE51Nru9K4NqUuFlVzVU5JO1FJGcV54IXuC4h7zUXVWgqhMGm6oYBqS+N7eWZd2sxVB43wQ5sVloGm8AnPnG81d65OEFz2p48lYpgox9ELRQ5LlZgOxTK/lAzbG38pf9iziXR6gWmN58J9/qsN+4y2pqGSqII=</SignatureValue>
+  </Signature>
+</license>
